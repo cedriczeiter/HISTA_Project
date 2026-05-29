@@ -4,7 +4,9 @@ Ce depot contient le notebook principal du projet et les figures associees.
 
 ## Contenu
 
-- Notebook principal : HISTA_Project/project.ipynb
+- Notebook principal : project_final.ipynb
+- Rapport : final_report.pdf
+- Presentations : presentation.pptx
 
 ## Execution
 
